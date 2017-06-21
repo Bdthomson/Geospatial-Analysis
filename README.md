@@ -6,9 +6,13 @@
 Alphabetical Order: 
 
 Patrick Gaines
+
 Spencer MK Smith
+
 Fatima Naveed
+
 Ryan Schachte
+
 Blake Thomson
 
 # Yellow Taxi Heat Map using Getis-Ord Statistic
