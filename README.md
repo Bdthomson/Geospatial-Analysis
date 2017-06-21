@@ -1,7 +1,7 @@
 
 # CSE 512 - GeoSpatial Analysis - Data Monkeys
 
-# Group Members
+## Group Members
 
 Alphabetical Order: 
 
@@ -14,6 +14,10 @@ Fatima Naveed
 Ryan Schachte
 
 Blake Thomson
+
+## Problem Definition
+
+The 2016 Geographic Information Systems Cup problem definition can be found [here](http://sigspatial2016.sigspatial.org/giscup2016/problem).
 
 # Yellow Taxi Heat Map using Getis-Ord Statistic
 
