@@ -1,4 +1,15 @@
-# Project Phase 3 - Data Monkeys (Group 6)
+
+# CSE 512 - GeoSpatial Analysis - Data Monkeys
+
+# Group Members
+
+Alphabetical Order: 
+
+Patrick Gaines
+Spencer MK Smith
+Fatima Naveed
+Ryan Schachte
+Blake Thomson
 
 # Yellow Taxi Heat Map using Getis-Ord Statistic
 
