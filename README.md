@@ -19,6 +19,12 @@ Blake Thomson
 
 The 2016 Geographic Information Systems Cup problem definition can be found [here](http://sigspatial2016.sigspatial.org/giscup2016/problem).
 
+## Setup
+
+This spark implementation utilized 4 AWS machines in a cluster to solve the 2016 GIS Cup in 19.5 seconds.
+
+To setup an AWS cluster of your own, please refer to my guide and culmination of resources [here](https://github.com/Bdthomson/ec2_spark_cluster_instructions).
+
 # Yellow Taxi Heat Map using Getis-Ord Statistic
 
 From the directions: The submitted jar will be invoked using the following syntax:
